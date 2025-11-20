@@ -11,6 +11,7 @@ O projeto implementa uma estratégia híbrida de controle para otimizar o microc
 ## 📂 Estrutura do Repositório
 * `/datasets`: Dados brutos coletados para treinamento (exportados do Edge Impulse).
 * `/lib`: Biblioteca de inferência gerada pelo Edge Impulse.
+* `scripts`: Contém o código em (.gs) responsável por receber as requisições HTTP do ESP32 e armazenar os dados de telemetria na nuvem (Google Sheets).
 * `/src`: Código fonte principal do firmware (C++).
 * `platformio.ini`: Arquivo de configuração do ambiente, dependências
 
@@ -36,6 +37,7 @@ O projeto envia dados para uma planilha do Google para registro histórico. O sc
 
 ---
 *Desenvolvido como requisito para obtenção do título de Engenheira de Controle e Automação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Hortolândia.*
+
 
 
 
