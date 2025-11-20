@@ -10,7 +10,7 @@ O projeto implementa uma estratégia híbrida de controle para otimizar o microc
 
 ## 📂 Estrutura do Repositório
 * `/src`: Código fonte principal do firmware (C++).
-* `/libs`: Bibliotecas utilizadas no código fonte.
+* `/lib`: Biblioteca de inferência gerada pelo Edge Impulse.
 * `/datasets`: Dados brutos coletados para treinamento (exportados do Edge Impulse).
 
 ## 🛠️ Hardware Utilizado
@@ -25,3 +25,4 @@ O projeto implementa uma estratégia híbrida de controle para otimizar o microc
 
 ---
 *Desenvolvido como requisito para obtenção do título de Engenheira de Controle e Automação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Hortolândia.*
+
