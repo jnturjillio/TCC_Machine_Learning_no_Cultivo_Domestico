@@ -21,8 +21,8 @@
 //==============================================================================================
 // --- Credenciais Wi-Fi ---
 
-char ssid[] = "Turjillio_2G";
-char pass[] = "Juju17vivi05";
+char ssid[] = "Rede";
+char pass[] = "Senha";
 
 // --- Endpoint do Google Apps Script ---
 String googleScriptUrl = "https://script.google.com/macros/s/AKfycbz7H9NlGFZZvSKtc6r4OWo14iC5t1PCYhYkWMLmppAgjSN0C2MgSwDyOxII4sDU2ZBqiQ/exec";
